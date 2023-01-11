@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "http://music-api.qwas.top//:match*"
+      "destination": "https://music-api.qwas.top/:match*"
     }
   ]
 }
